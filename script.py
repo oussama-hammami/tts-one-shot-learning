@@ -1,0 +1,1 @@
+phrases = ["oussama sad hi!"]
