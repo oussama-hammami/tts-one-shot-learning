@@ -1,2 +1,5 @@
-./tortoise/voices/oussama
-./output
+# Ignore voice samples
+tortoise/voices/oussama/
+
+# Ignore output folder
+output/
